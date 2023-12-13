@@ -23,7 +23,7 @@
 
 <h3>Sobre Mi</h3>
 <div align="center">
-Me consideró como una persona disciplinada y enfocada en el estudio, además de ser un buen compañero. Constantemente estoy buscando nuevas oportunidades de capacitación para fortalecer mis habilidades y mantenerme actualizado con las últimas tendencias y tecnologías en el ámbito de la programación.
+Me consideró una persona disciplinada y enfocada en el estudio, además de ser un buen compañero. Constantemente estoy buscando nuevas oportunidades de capacitación para fortalecer mis habilidades y mantenerme actualizado con las últimas tendencias y tecnologías en el ámbito de la programación.
 </div>
 <br>
 <div>
