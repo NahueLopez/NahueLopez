@@ -92,7 +92,7 @@
 - **Extras**:
 
   	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    		<img src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png" alt="MySQL" width="40" height="40"/> 
+    		<img src="https://e7.pngegg.com/pngimages/824/227/png-clipart-mysql-logo-database-web-development-blue-text.png" alt="MySQL" width="40" height="40"/> 
   	</a>
   
 
