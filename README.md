@@ -68,7 +68,7 @@
 - **Framework**:
 
 	<a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-	    <img src="https://cdn.iconscout.com/icon/free/png-256/free-laravel-9132611-7417040.png" alt="Laravel" width="40" height="40"/> 
+	    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" width="40" height="40"/> 
 	</a>
 
  	<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
