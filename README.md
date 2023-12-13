@@ -52,7 +52,7 @@
 - **Front-End Development**:
 
    	<a href="https://es.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"> 
-	    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="40" height="40"/> 
+	    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="30" height="30"/> 
 	</a>
  
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -92,7 +92,7 @@
 - **Extras**:
 
   	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    		<img src="https://www.pngplay.com/wp-content/uploads/7/Mysql-Logo-PNG-HD-Quality.png" alt="MySQL" width="40" height="40"/> 
+    		<img src="https://www.pngplay.com/wp-content/uploads/7/Mysql-Logo-PNG-HD-Quality.png" alt="MySQL" width="60" height="60"/> 
   	</a>
   
 
