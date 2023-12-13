@@ -32,7 +32,7 @@
 - **Back-End Development**:
 
 	<a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-    		<img src="URL_DE_LA_IMAGEN_DE_PHP" alt="PHP" width="40" height="40"/> 
+    		<img src="https://www.pngmart.com/files/7/PHP-PNG-File.png" alt="PHP" width="40" height="40"/> 
 	</a>
 	
   	<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -68,7 +68,7 @@
 - **Framework**:
 
 	<a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-	    <img src="URL_DE_LA_IMAGEN_DE_LARAVEL" alt="Laravel" width="40" height="40"/> 
+	    <img src="https://assets.stickpng.com/images/58480e35cef1014c0b5e4920.png" alt="Laravel" width="40" height="40"/> 
 	</a>
 
  	<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
@@ -92,7 +92,7 @@
 - **Extras**:
 
   	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    		<img src="https://assets.stickpng.com/images/58481057cef1014c0b5e4951.png" alt="MySQL" width="40" height="40"/> 
+    		<img src="https://www.pngplay.com/wp-content/uploads/7/Mysql-Logo-PNG-HD-Quality.png" alt="MySQL" width="40" height="40"/> 
   	</a>
   
 
