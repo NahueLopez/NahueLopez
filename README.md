@@ -57,5 +57,13 @@
 	<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
 		<img src="[https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg](https://es.wikipedia.org/wiki/JavaScript#/media/Archivo:Unofficial_JavaScript_logo_2.svg)https://es.wikipedia.org/wiki/JavaScript#/media/Archivo:Unofficial_JavaScript_logo_2.svg" alt="tailwind" width="40" height="40"/> 
 	</a> 
+	<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+</a>
+
+<a href="https://es.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="40" height="40"/> 
+</a>
+
 </p>
  <br>
