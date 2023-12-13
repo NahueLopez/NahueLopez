@@ -81,13 +81,6 @@
 
 <br>
 
-- **Cloud Hosting**:
-
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-	</a> 
-    
-<br>
 
 - **Base de Datos**:
 
@@ -96,9 +89,18 @@
   	</a>
    
    	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    		<img src="https://img2.freepng.es/20190610/gou/kisspng-microsoft-azure-sql-database-microsoft-azure-sql-d-postani-spletni-razvijalec-izberite-svojo-uno-5cfe7bd5b6e377.6992930615601817177491.jpg" alt="MySQL" width="60" height="60"/> 
+    		<img src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png" alt="MySQL" width="60" height="60"/> 
   	</a>
   
+
+- **Extras**:
+
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+	</a> 
+    
+<br>
+
 
 
 </p>
