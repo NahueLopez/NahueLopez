@@ -26,6 +26,7 @@
 Me consideró una persona disciplinada y enfocada en el estudio, además de ser un buen compañero. Constantemente estoy buscando nuevas oportunidades de capacitación para fortalecer mis habilidades y mantenerme actualizado con las últimas tendencias y tecnologías en el ámbito de la programación.
 </div>
 <br>
+  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 
 <div align="left">
 - 🔭 Actualmente estoy trabajando en Fundacion 360 como Capacitador de Robotica,
@@ -37,8 +38,6 @@ Me consideró una persona disciplinada y enfocada en el estudio, además de ser 
 - 💬 Disponible a trabajar juntos.
   
 - ⚡ Dato curioso: Me gustan las artes marciales.
-
-  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 
 </div>
 
