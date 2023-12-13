@@ -89,7 +89,7 @@
   	</a>
    
    	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    		<img src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png" alt="MySQL" width="60" height="60"/> 
+    		<img src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png" alt="MySQL" width="50" height="50"/> 
   	</a>
   
 
