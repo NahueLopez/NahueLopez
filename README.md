@@ -92,7 +92,7 @@
 - **Extras**:
 
   	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    		<img src="https://assets.stickpng.com/images/62debc4fff3c6e4b8b5de8d3.png" alt="MySQL" width="40" height="40"/> 
+    		<img src="https://assets.stickpng.com/images/58481057cef1014c0b5e4951.png" alt="MySQL" width="40" height="40"/> 
   	</a>
   
 
