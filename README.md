@@ -94,6 +94,10 @@
   	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     		<img src="https://www.pngplay.com/wp-content/uploads/7/Mysql-Logo-PNG-HD-Quality.png" alt="MySQL" width="60" height="60"/> 
   	</a>
+   
+   	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    		<img src="https://img2.freepng.es/20190610/gou/kisspng-microsoft-azure-sql-database-microsoft-azure-sql-d-postani-spletni-razvijalec-izberite-svojo-uno-5cfe7bd5b6e377.6992930615601817177491.jpg" alt="MySQL" width="60" height="60"/> 
+  	</a>
   
 
 
