@@ -1,5 +1,6 @@
-<h1 aling="center"> Hola, <strong>soy Nahuel</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
-
+<div align="center">
+<h1> Hola, <strong>soy Nahuel</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
+</div>
 ![Nahuel Luis Lopez](https://github.com/NahueLopez/NahueLopez/assets/78488563/0d68149c-647d-41d5-b9aa-b3962aa3f0af)
 
 <!--
