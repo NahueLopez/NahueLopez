@@ -27,9 +27,7 @@ Me consideró una persona disciplinada y enfocada en el estudio, además de ser 
 </div>
 
 <br>
-<div align="reight">
-  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-</div>
+
 <div align="left">
 - 🔭 Actualmente estoy trabajando en Fundacion 360 como Capacitador de Robotica,
   
