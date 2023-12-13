@@ -29,7 +29,7 @@
 
 <p align="center">
 
-- **Languages**:
+- **Back-End Development**:
 
 	<a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
     		<img src="URL_DE_LA_IMAGEN_DE_PHP" alt="PHP" width="40" height="40"/> 
@@ -83,7 +83,7 @@
 
 - **Cloud Hosting**:
 
-    	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 	</a> 
     
