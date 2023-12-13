@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Nahuel Luis Lopez](https://github.com/NahueLopez/NahueLopez/assets/78488563/fa9eef3e-99dd-41b2-8adc-acf353cb8fce)
 <!--
 **NahueLopez/NahueLopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
