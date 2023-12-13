@@ -89,7 +89,7 @@
     
 <br>
 
-- **Extras**:
+- **Base de Datos**:
 
   	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     		<img src="https://www.pngplay.com/wp-content/uploads/7/Mysql-Logo-PNG-HD-Quality.png" alt="MySQL" width="60" height="60"/> 
