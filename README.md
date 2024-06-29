@@ -23,7 +23,11 @@
 
 <h3>Sobre Mi</h3>
 <div align="center">
-Me consideró una persona disciplinada y enfocada en el estudio, además de ser un buen compañero. Constantemente estoy buscando nuevas oportunidades de capacitación para fortalecer mis habilidades y mantenerme actualizado con las últimas tendencias y tecnologías en el ámbito de la programación.
+¡Hola👋! Soy Nahuel Luis Lopez, analista en sistemas apasionado por la programación y la tecnología. Desde mi infancia, he sentido una conexión especial con la tecnología, y fue al descubrir la programación que decidí estudiar y trabajar en este fascinante campo. Aunque mi experiencia previa se centró más en el Backend, recientemente he desarrollado un profundo interés por trabajar con datos, dedicándome a estudiar y decidido a enfocarme plenamente en este sector. 📊
+
+Me considero estudioso y comprometido con mi desarrollo profesional. Aunque reconozco que tengo mucho por aprender, estoy dispuesto a esforzarme al máximo para alcanzar y superar los objetivos que se requieran. Disfruto transformando datos en información valiosa, presentándola de manera clara y eficiente para apoyar la toma de decisiones. 📚
+
+Estoy ansioso por dar este gran paso y adentrarme aún más en el mundo de los datos. Sé que es un camino complejo, lleno de desafíos, pero creo firmemente en aprender de los errores y seguir intentando, especialmente cuando se trata del trabajo de mis sueños. 🚀
 </div>
 
 <br>
@@ -31,7 +35,7 @@ Me consideró una persona disciplinada y enfocada en el estudio, además de ser 
 <div align="left">
 - 🔭 Actualmente estoy trabajando en Fundacion 360 como Capacitador de Robotica,
   
-- 🌱 Actualmente estoy aprendiendo React, Next y Astro.
+- 🌱 Actualmente estoy aprendiendo las herramientas necesarias para Data Engineering.
   
 - 👯 Busco colaborar en Proyectos y encontrar un trabajo.
   
