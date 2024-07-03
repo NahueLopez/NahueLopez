@@ -2,7 +2,7 @@
 <h1> Bienvenid@ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </div>
 
-![Nahuel Luis Lopez](https://github.com/NahueLopez/NahueLopez/issues/2#issue-2389574012)
+![Banner](https://github.com/NahueLopez/NahueLopez/assets/78488563/93c3f5fa-ae85-42d1-832d-8e84d18f7759)
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conéctate conmigo 🤝 </h3>
